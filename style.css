@@ -1,0 +1,16 @@
+header {
+  background-image: url("https://images.unsplash.com/photo-1516426122078-c23e76319801?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+}
+
+.heading {
+  font-size: 6rem;
+  font-family: "Leckerli One", cursive;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+}
